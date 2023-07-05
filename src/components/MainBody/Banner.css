@@ -1,0 +1,78 @@
+.banner{
+   position: relative;
+   height: 700px;
+   object-fit: contain;
+   /* opacity: 0.71; */
+}
+
+.banner__contents{
+   color: white;
+   margin-left: 100px;
+   padding-top: 250px;
+}
+
+.banner__title{
+   font-size: 6rem;
+   font-weight: 800;
+   padding-bottom: 0.3rem;
+   font-family: 'Cinzel Decorative', cursive;
+}
+
+.banner__buttons{
+   display: flex;
+}
+
+.banner__button__play{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 10px;
+   font-size: 1.5rem;
+   height: 50px;
+   width: 150px;
+   border: none;
+   border-radius: 5px;
+   background-color: white;
+}
+
+.banner__button__more{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 1.5rem;
+   height: 50px;
+   width: 200px;
+   border: none;
+   border-radius: 5px;
+   background-color: rgba(109, 109, 109, 0.622);
+   color: white;
+}
+
+.banner__button__more:hover{
+   background-color: rgba(109, 109, 109, 0.839);
+}
+
+.banner__button__play:hover{
+   background-color: rgba(255, 255, 255, 0.778)
+}
+
+.play__svg,.more__svg{
+   padding-right: 10px;
+   font-size: 2rem;
+}
+
+.banner__description{
+   border-radius: 12px;
+   width: 500px;
+   font-size: 1.2rem;
+}
+
+.banner__fadeBottom{
+   height: 10.4rem;
+   background-image: linear-gradient(180deg, transparent,  rgba(0, 0, 0, 0.61), #000);
+}
+
+.movies__list{
+   color: white;
+   background-color: #000000f5;
+}

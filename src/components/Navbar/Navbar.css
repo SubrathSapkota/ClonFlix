@@ -1,0 +1,43 @@
+.nav {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: black;
+}
+
+.nav_right {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   padding: 0 20px;
+}
+
+.nav_left {
+   width: 100%;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+   padding-right: 30px;
+}
+
+.logo_img {
+   height: 30px;
+}
+
+.logo_img:hover{
+   height: 32px;
+}
+
+.avatar {
+   height: 30px;
+}
+
+.notification{
+   color: white;
+   height: 50px;
+}
+
+.search,.notification,.avatar{
+   padding-left: 15px;
+}
