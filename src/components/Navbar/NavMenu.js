@@ -5,7 +5,7 @@ function NavMenu() {
    return <>
       <div className='navMenu'>
          <ul className='navbar_ul'>
-            <li><a href='#'>Home</a></li>
+            <li><a href='#'>Homeies</a></li>
             <li><a href='#'>TVShow</a></li>
             <li><a href='#'>Movies</a></li>
             <li><a href='#'>Latest</a></li>
