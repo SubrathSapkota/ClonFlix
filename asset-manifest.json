@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/ClonFlix/static/css/main.f189f771.css",
-    "main.js": "/ClonFlix/static/js/main.daea3879.js",
+    "main.css": "/ClonFlix/static/css/main.c88b3d44.css",
+    "main.js": "/ClonFlix/static/js/main.28fc7a2c.js",
     "static/js/787.1ed0c42c.chunk.js": "/ClonFlix/static/js/787.1ed0c42c.chunk.js",
-    "static/media/CoverImage.jpg": "/ClonFlix/static/media/CoverImage.5ad8821a52671af3d7ee.jpg",
     "static/media/NLogo.png": "/ClonFlix/static/media/NLogo.77ba64d8813d5a26e7e7.png",
     "static/media/avatar.jpg": "/ClonFlix/static/media/avatar.b60c79044e6f79f58935.jpg",
     "index.html": "/ClonFlix/index.html",
-    "main.f189f771.css.map": "/ClonFlix/static/css/main.f189f771.css.map",
-    "main.daea3879.js.map": "/ClonFlix/static/js/main.daea3879.js.map",
+    "main.c88b3d44.css.map": "/ClonFlix/static/css/main.c88b3d44.css.map",
+    "main.28fc7a2c.js.map": "/ClonFlix/static/js/main.28fc7a2c.js.map",
     "787.1ed0c42c.chunk.js.map": "/ClonFlix/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f189f771.css",
-    "static/js/main.daea3879.js"
+    "static/css/main.c88b3d44.css",
+    "static/js/main.28fc7a2c.js"
   ]
 }
